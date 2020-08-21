@@ -1,0 +1,30 @@
+[
+    {
+        "firstname": "Sofyan",
+        "lastname": "Setiawan",
+        "age": 28,
+        "address": "Jakarta",
+        "ismale": true
+    },
+    {
+        "firstname": "Muhammad",
+        "lastname": "Yusuf",
+        "age": 27,
+        "address": "Bandung",
+        "ismale": true
+    },
+    {
+        "firstname": "Renhard",
+        "lastname": "Julindra",
+        "age": 21,
+        "address": "Surabaya",
+        "ismale": true
+    },
+    {
+        "firstname": "Afifah",
+        "lastname": "Rahma",
+        "age": 24,
+        "address": "Bogor",
+        "ismale": false
+    } 
+]
